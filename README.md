@@ -1,3 +1,0 @@
-localdev
-========
-test
